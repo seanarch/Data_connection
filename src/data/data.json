@@ -1,37 +1,15 @@
 {
     "patients": [
         {
-            "date1": "2021-10-17",
-            "ct": [
-                {
-                    "id": 1,
-                    "type": "Bone Scane"
-                },
-                {
-                    "id": 2,
-                    "type": "CT CAP"
-                }
-            ],
+             
             "comments": "comment1",
-            "date2": "21-Feb-17",
-            "checkbox": false,
+            "date": "2000-11-11",
             "id": 1
         },
         {
-            "date1": "2021-10-17",
-            "ct": [
-                {
-                    "id": 1,
-                    "type": "Bone Scane"
-                },
-                {
-                    "id": 2,
-                    "type": "CT CAP"
-                }
-            ],
-            "comments": "comment1",
-            "date2": "21-Feb-17",
-            "checkbox": false,
+             
+            "comments": "comment2",
+            "date": "2000-12-12",
             "id": 2
         }
     ]
